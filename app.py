@@ -126,7 +126,7 @@ def logout():
     return(url_for("index"))
 
 
-#beşer3
+#merhaba3
 
 
 if __name__ == "__main__":
