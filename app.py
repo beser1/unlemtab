@@ -126,7 +126,7 @@ def logout():
     return(url_for("index"))
 
 
-#beşer
+#beşer2
 
 
 if __name__ == "__main__":
